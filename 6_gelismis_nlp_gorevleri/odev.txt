@@ -1,0 +1,5 @@
+1 - LLAMA dil modeli kullanarak Question and Answer uygulaması yap.
+2 - Bilgi Getirme GPT modelini kullan
+3 - Öneri sisteleri, kenid neural networdkü olusutr, veri çeşitleri değişti geliştirr
+4 - makine çevirisnde başka dildne başak ide çevir (helsiki yerine başka dil modlei kullan), tr- in çeivirmi, huggingfac'den bakin'
+5 - metin özetleme de 3 tane pdf dokumanin özetini çikartin

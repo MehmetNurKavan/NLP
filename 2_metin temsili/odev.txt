@@ -1,0 +1,8 @@
+odev: 
+    1- bow dokumanları degisteri cıkan sonucları incele
+    2- bow sms spam kullanrak bow yap
+    3- tf-idf de dokumanı degistir ve icele
+    4- tf-idf IMDB datasetini kullanarak yaP İNCELE
+    5-  n-gram documantsi degister ve incele
+    6- word embeding sentencsleri degstir ve incele
+    7- trasnformersta textte degistiklik yap ve incele(firs toekn degilde 2.3. toleni incele)
